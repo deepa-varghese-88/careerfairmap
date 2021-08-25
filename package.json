@@ -1,0 +1,23 @@
+{
+  "name": "careerfairmap",
+  "version": "1.0.0",
+  "description": "online interactive map for PSU Career Fair held at SMSU ballroom",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepa-varghese-88/careerfairmap.git"
+  },
+  "author": "Deepa Varghese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepa-varghese-88/careerfairmap/issues"
+  },
+  "homepage": "https://github.com/deepa-varghese-88/careerfairmap#readme"
+}
