@@ -31,4 +31,14 @@ https://psucareerfairmap.herokuapp.com/
 - create .env file for Google's Knowledge Graph API's key
 - node .\app.js : to run 
 
-Express.js code and the starting point of the app is "app.js" file. 
+## What I did
+
+- npm init: to generate package.json
+- npm install <package>: to install express and all other dependencies
+- created .env for Google's Knowledge Graph API's key
+- created .gitignore to ignore uploading .env and node_modules
+- started with app.js
+- created public folder for CSS file and Javascript file to handle events
+- created views folder for ejs file to generate the right HTML
+- node app.js to run 
+- deployed to heroku from github repository after adding line "scripts: start: node app.js"
