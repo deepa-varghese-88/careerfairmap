@@ -17,7 +17,7 @@ The thought process behind the solution
 - We could make the map and the list of companies present at the fair, online 
 - **Provide them a way to mark the companies they WISH to go to (click to mark yellow)**
 - **And, mark the companies they have ALREADY been to (click again to mark green),**
-- **Also, using Google's Knowledge Graph API, provide them with some nugget of information about any of these companies with just a double-click.**
+- **Also, using Google's Knowledge Graph API, provide them with (possibly) the logo of the company to identify their banner and summaried information, with a double-click.**
 
 ## Prototype
 
