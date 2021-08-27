@@ -41,4 +41,4 @@ https://psucareerfairmap.herokuapp.com/
 - created public folder for CSS file and Javascript file to handle events
 - created views folder for ejs file to generate the right HTML
 - node app.js to run 
-- deployed to heroku from github repository after adding line "scripts: start: node app.js"
+- deployed to heroku from github repository after adding line "scripts: start: node app.js" and updating config vars to include Google API Key
