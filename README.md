@@ -5,7 +5,7 @@ An Online interactive map for students of the PSU Career Fair held in the SMSU b
 
 ### UX Research Summary: 
 Based on observations and informal interviews with students I discovered that the current process is as follows:
-- When each student arrives in fron of the SMSU Ballroom, they are given a floor map with numbered blocks, and another list of companies and their respective block number
+- When each student arrives in fron of the SMSU Ballroom, they are given a floor map with numbered blocks (which has been the same for the past few years), and another sheet with the list of companies present and their respective block number
 - As the sttudent enters the hall, they need to cross-reference the map with the list to find out where each company's staff is located. 
 - More often than not, students are too well prepared for the n number of companies that they want to approach, leading to last minute google searches to find out more about a company before approaching their stall. 
 - **(Pain point) Thus each student goes through the hassle of managing a file full of resumes in one hand, and the map, the list and their phone in the other (Not to mention, *ahem* the SWAG - Stuff We All Get)
