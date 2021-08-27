@@ -21,6 +21,8 @@ The thought process behind the solution
 
 ## Prototype
 
+**Node.js (Express.js), EJS and CSS**
+
 https://psucareerfairmap.herokuapp.com/
 
 ## How To
