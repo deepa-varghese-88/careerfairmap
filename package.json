@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/deepa-varghese-88/careerfairmap/issues"
   },
-  "homepage": "https://github.com/deepa-varghese-88/careerfairmap#readme"
+  "homepage": "https://github.com/deepa-varghese-88/careerfairmap#readme",
+  "engines": {
+    "node": "12.16.1"
+  }
 }
