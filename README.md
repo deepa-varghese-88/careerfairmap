@@ -14,7 +14,7 @@ Based on observations and informal interviews with students I discovered that th
 ### Brainstorming, Ideation and Design 
 The thought process behind the solution
 - Each student carries their mobile phone regardless of any situation anyway
-- We could make the map and the list of companies present at the fair online 
+- We could make the map and the list of companies present at the fair, online 
 - **Provide them a way to mark the companies they WISH to go to (click to mark yellow)**
 - **And, mark the companies they have ALREADY been to (click again to mark green),**
 - **Also, using Google's Knowledge Graph API, provide them with some nugget of information about any of these companies with just a double-click.**
